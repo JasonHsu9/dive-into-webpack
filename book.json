@@ -1,0 +1,26 @@
+{
+	"title" : "Dive Into GitBook",
+
+	"language" : "zh-hans",
+
+	 
+	"links": {
+		
+        "sidebar": {
+            "My Blog": "https://jasonhsu9.github.io"
+        },
+
+        "sharing": {
+            "google": null,
+            "facebook": null,
+            "twitter": null,
+            "weibo": null,
+            "all": null
+        }
+    },
+
+	"plugins" : [
+		"back-to-top-button"
+	]
+
+}
