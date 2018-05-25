@@ -1,5 +1,7 @@
 # 深入浅出Webpack
 
+>本书发布时，先将 `_book` 文件夹更改名称为 `docs` 再 push，这样才能在项目源码保存在 Github 同时，在当前项目 `master` 分支  `docs` 文件夹开启 github page 服务
+
 <div style='text-align: center'><img style='width: 40%;' src='./image/fengmian-dive-into-webpack.png' alt='dive-into-webpack' /></div>
 
 ## 评价
